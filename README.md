@@ -14,8 +14,6 @@ https://www.entityframeworktutorial.net/efcore/create-model-for-existing-databas
 2.https://localhost:44322/api/users/1/photos/11/setMain<br/>
 3.https://localhost:44322/api/users/2/like/8<br/>
 4.https://localhost:44322/api/users/8/Messages<br/>
-
-
 ## Get
 1.https://localhost:44322/api/users<br/>
 2.https://localhost:44322/api/users?gender=male<br/>
@@ -24,10 +22,7 @@ https://www.entityframeworktutorial.net/efcore/create-model-for-existing-databas
 5.https://localhost:44322/api/users/8/messages?messageContainer=Outbox<br/>
 6.https://localhost:44322/api/users/8/messages<br/>
 7.https://localhost:44322/api/users/8/messages/thread/1<br/>
-
 ## Put
 1.https://localhost:44322/api/users/1<br/>
-
 ## Delete
 1.https://localhost:44322/api/users/11/photos/19/<br/>
-
