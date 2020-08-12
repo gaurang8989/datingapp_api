@@ -1,4 +1,4 @@
-# datingapp_api
+# Datingapp_api
 DatingApp using .NET Core web Application
 ####
 1.C# concepts :- https://freeasphosting.net/csharp-tutorial.html<br/>
