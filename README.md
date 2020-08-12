@@ -9,12 +9,7 @@ https://www.entityframeworktutorial.net/efcore/create-model-for-existing-databas
 5.Road map for Dotnet Core:- https://github.com/MoienTajik/AspNetCore-Developer-Roadmap<br/><br/>
 
 # Http Requests
-## post
-1.https://localhost:44322/api/auth/login<br/>
-2.https://localhost:44322/api/users/1/photos/11/setMain<br/>
-3.https://localhost:44322/api/users/2/like/8<br/>
-4.https://localhost:44322/api/users/8/Messages<br/>
-## Get
+## 1.Get
 1.https://localhost:44322/api/users<br/>
 2.https://localhost:44322/api/users?gender=male<br/>
 3.https://localhost:44322/api/users?minage=40&maxage=70<br/>
@@ -22,7 +17,12 @@ https://www.entityframeworktutorial.net/efcore/create-model-for-existing-databas
 5.https://localhost:44322/api/users/8/messages?messageContainer=Outbox<br/>
 6.https://localhost:44322/api/users/8/messages<br/>
 7.https://localhost:44322/api/users/8/messages/thread/1<br/>
-## Put
+## 2.Post
+1.https://localhost:44322/api/auth/login<br/>
+2.https://localhost:44322/api/users/1/photos/11/setMain<br/>
+3.https://localhost:44322/api/users/2/like/8<br/>
+4.https://localhost:44322/api/users/8/Messages<br/>
+## 3.Put
 1.https://localhost:44322/api/users/1<br/>
-## Delete
+## 4.Delete
 1.https://localhost:44322/api/users/11/photos/19/<br/>
