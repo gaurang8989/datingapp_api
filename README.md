@@ -1,6 +1,6 @@
 # datingapp_api
 DatingApp using .NET Core web Application
-### <br/>
+##
 1.C# concepts :- https://freeasphosting.net/csharp-tutorial.html<br/>
 2.Scaffold :- https://docs.oracle.com/cd/E17952_01/connector-net-en/connector-net-entityframework-core-scaffold-example.html#connector-net-entityframework-core-scaffold-packagemgr<br/>
 https://www.entityframeworktutorial.net/efcore/create-model-for-existing-database-in-ef-core.aspx<br/>
