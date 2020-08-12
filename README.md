@@ -1,5 +1,6 @@
 # datingapp_api
 DatingApp using .NET Core web Application <br/><br/>
+## <br/>
 1.C# concepts :- https://freeasphosting.net/csharp-tutorial.html<br/>
 2.Scaffold :- https://docs.oracle.com/cd/E17952_01/connector-net-en/connector-net-entityframework-core-scaffold-example.html#connector-net-entityframework-core-		scaffold-packagemgr<br/>
 https://www.entityframeworktutorial.net/efcore/create-model-for-existing-database-in-ef-core.aspx<br/>
@@ -8,7 +9,7 @@ https://www.entityframeworktutorial.net/efcore/create-model-for-existing-databas
 5.Road map for Dotnet Core:- https://github.com/MoienTajik/AspNetCore-Developer-Roadmap<br/><br/><br/>
 
 # Http Requests
-post
+## post
 1.https://localhost:44322/api/auth/login<br/><br/>
 2.https://localhost:44322/api/users/1/photos/11/setMain<br/>
 3.https://localhost:44322/api/users/2/like/8<br/>
