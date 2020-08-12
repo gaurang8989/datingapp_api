@@ -10,7 +10,7 @@ https://www.entityframeworktutorial.net/efcore/create-model-for-existing-databas
 
 # Http Requests
 ## post
-1.https://localhost:44322/api/auth/login<br/><br/>
+1.https://localhost:44322/api/auth/login<br/>
 2.https://localhost:44322/api/users/1/photos/11/setMain<br/>
 3.https://localhost:44322/api/users/2/like/8<br/>
 4.https://localhost:44322/api/users/8/Messages<br/>
